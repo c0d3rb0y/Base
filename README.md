@@ -6,5 +6,5 @@
   <li>ok at least i have the groundwork for a voice based version (currently a command line type thing)</li>
   <li>It will be able to order you pizza if you code a module to do so.</li>
 </ul>
-# Module System
-Pretty simple, just add ```from base.utils import *``` at the start and you'll have access to all the AI's features. Documentation for that coming soon:tm:.
+
+Module system is pretty simple, just add ```from base.utils import *``` at the start and you'll have access to all the AI's features. Documentation for that coming soon:tm:.
